@@ -1,4 +1,6 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio 
+
+Olá, Bem vindo ao meu projeto de portfólio.
 
 <img src="img/1686609360591.jpg" width="auto">
 
